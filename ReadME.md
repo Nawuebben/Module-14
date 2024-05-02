@@ -8,7 +8,7 @@ The purpose of the module is to employ a machine learning bot with different par
 
 The baseline model in this evaluation is the basical svm classifier output.
 
-![image](Class/Homework/Homework Module 14 -Algo Trading/Instructions/Starter_Code/sma5.png)
+![image](sma.png)
 ### Alternate Training Window Model
 
 ### Altername SMA value Model
