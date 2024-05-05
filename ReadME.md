@@ -1,4 +1,4 @@
-# Module 14 
+# Module 14 - Machine Learning Trading Bot
 
 ## Overview
 
