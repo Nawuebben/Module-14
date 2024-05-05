@@ -8,7 +8,7 @@ The purpose of the module is to employ a machine learning bot with different par
 
 The baseline model in this evaluation is the basical svm classifier output. This model is used as our controlled "variable", and will show our initial results.
 
-![image](Class/Homework/Homework Module 14 -Algo Trading/Instructions/Starter_Code/sma5.png)
+![image](sma5.png)
 
 
 
@@ -28,19 +28,19 @@ weighted avg       0.51      0.51      0.51      3022
 
 The first alternate model that is tested shares all of the same parameters of the baseline model, except for one thing. Instead of having the Interval as 3 months, it is set to 18 months in this rendition. Comparative analysis on the classification report metrics, and also the difference in strategy returns.
 
-![image](Class/Homework/Homework Module 14 -Algo Trading/Instructions/Starter_Code/18mo.png)
+![image](18mo.png)
 
 ### Alternate (3 months, Short Window=50, Long Window=250, SMA value Model)
 
 The second alternate model that was tested was shared all of the same parameters as the baseline model as well, except that the Short and Long Window units were changed from( 4, 100 to -> 50, 250 respectively.
 
-![image](Class/Homework/Homework Module 14 -Algo Trading/Instructions/Starter_Code/sma.png)
+![image](sma.png)
 
 ### Logistic Regression Model 
 
 The logistic regression model is our way of bringing in an outisde method to our analysis to compare the results and to ensure we are using the most efficient model possible.
 
-![image](Class/Homework/Homework Module 14 -Algo Trading/Instructions/Starter_Code/actual_v_strat_returns_logreg.png)
+![image](actual_v_strat_returns_logreg.png)
 
 
 ### Classification Report for Logistic Regression
